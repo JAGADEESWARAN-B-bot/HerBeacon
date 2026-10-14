@@ -1,0 +1,6 @@
+{
+  "name": "HerBeacon",
+  "description": "AI-powered women's personal safety and journey monitoring platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
